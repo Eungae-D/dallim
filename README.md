@@ -34,9 +34,40 @@
 
 # 📌 주요 기능
 
-### 메인 페이지
+<details>
+<summary>:full_moon:<strong>메인 페이지</strong></summary>
+<br>
 
-<img src="./frontend/Dallim/src/assets/demo/main.gif"  width="200" height="300"/>
+|  비 로그인  |  메인 |  워치 가이드 |  
+| :-----------------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: |
+| <img src="./frontend/Dallim/src/assets/readme/main/notLogin.png"  width="200" height="300"/> |  <img src="./frontend/Dallim/src/assets/readme/main/main.png"  width="200" height="300"/>  | <img src="./frontend/Dallim/src/assets/readme/main/privacypolicy.png"  width="200" height="300"/>   |
+| 어플을 키고 소셜 로그인(네이버, 카카오)을 통해 로그인을 할 수 있습니다. | 소셜 로그인을 성공하면 메인 페이지로 이동하게 됩니다.  | 갤럭시 워치에 대한 가이드를 볼 수 있습니다. |
+
+ |  달력  |  개인정보 처리방침 |
+ | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: |
+ | <img src="./frontend/Dallim/src/assets/readme/main/watchGuide.png"  width="200" height="300"/> |  <img src="./frontend/Dallim/src/assets/readme/main/privacypolicy.png"  width="200" height="300"/>  |
+ | 서비스 출석일과 관련된 달력입니다. 출석의 경우 해당 날짜에 달리기 종료시, 출석으로 인정됩니다. | 서비스 개인정보 처리에 대한 링크로 이어지는 창이 뜹니다. 확인을 선택하면 서비스 개인정보 처리방침 페이지로 이동하게 됩니다.  |
+ 
+</details>
+<details>
+<summary>:waxing_gibbous_moon:<strong>차트 페이지</strong></summary>
+<br>
+
+|  차트 메인  |  러닝 기 |  워치 가이드 |  
+| :-----------------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: |
+| <img src="./frontend/Dallim/src/assets/readme/main/notLogin.png"  width="200" height="300"/> |  <img src="./frontend/Dallim/src/assets/readme/main/main.png"  width="200" height="300"/>  | <img src="./frontend/Dallim/src/assets/readme/main/privacypolicy.png"  width="200" height="300"/>   |
+| 어플을 키고 소셜 로그인(네이버, 카카오)을 통해 로그인을 할 수 있습니다. | 소셜 로그인을 성공하면 메인 페이지로 이동하게 됩니다.  | 갤럭시 워치에 대한 가이드를 볼 수 있습니다. |
+
+ |  달력  |  개인정보 처리방침 |
+ | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: |
+ | <img src="./frontend/Dallim/src/assets/readme/main/watchGuide.png"  width="200" height="300"/> |  <img src="./frontend/Dallim/src/assets/readme/main/privacypolicy.png"  width="200" height="300"/>  |
+ | 서비스 출석일과 관련된 달력입니다. 출석의 경우 해당 날짜에 달리기 종료시, 출석으로 인정됩니다. | 서비스 개인정보 처리에 대한 링크로 이어지는 창이 뜹니다. 확인을 선택하면 서비스 개인정보 처리방침 페이지로 이동하게 됩니다.  |
+ 
+</details>
+
+
+
+
 
 ### 혼자 달리기 & 함께 달리기
 
