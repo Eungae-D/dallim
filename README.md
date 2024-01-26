@@ -1,4 +1,4 @@
-![메인페이지](./frontend/Dallim/src/assets/demo/logo.png)
+![메인페이지](ttps://github.com/Eungae-D/Dallim/assets/135101171/dfae0c7a-c9e7-4272-91e2-ee90c3439e81)
 
 # 소개
 
