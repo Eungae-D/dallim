@@ -49,20 +49,47 @@
  | 서비스 출석일과 관련된 달력입니다. 출석의 경우 해당 날짜에 달리기 종료시, 출석으로 인정됩니다. | 서비스 개인정보 처리에 대한 링크로 이어지는 창이 뜹니다. 확인을 선택하면 서비스 개인정보 처리방침 페이지로 이동하게 됩니다.  |
  
 </details>
+
 <details>
 <summary>:waxing_gibbous_moon:<strong>차트 페이지</strong></summary>
 <br>
 
-|  차트 메인  |  러닝 기 |  워치 가이드 |  
+|  차트 메인  |  차트 메인(하단 스크롤업) |  러닝 그래프 터치 |  
 | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: |
-| <img src="./frontend/Dallim/src/assets/readme/main/notLogin.png"  width="200" height="300"/> |  <img src="./frontend/Dallim/src/assets/readme/main/main.png"  width="200" height="300"/>  | <img src="./frontend/Dallim/src/assets/readme/main/privacypolicy.png"  width="200" height="300"/>   |
-| 어플을 키고 소셜 로그인(네이버, 카카오)을 통해 로그인을 할 수 있습니다. | 소셜 로그인을 성공하면 메인 페이지로 이동하게 됩니다.  | 갤럭시 워치에 대한 가이드를 볼 수 있습니다. |
+| <img src="./frontend/Dallim/src/assets/readme/chart/chartMain.png"  width="200" height="300"/> |  <img src="./frontend/Dallim/src/assets/readme/chart/chartMainBottomUp.png"  width="200" height="300"/>  | <img src="./frontend/Dallim/src/assets/readme/chart/moveRunningRecord.png"  width="200" height="300"/>   |
+| 차트 메인페이지입니다. 달력을 통해 어느 날짜에 러닝을 했는지, 이번주 기록이 어떻게 되는지 확인할 수 있습니다. | 하단 스크롤바를 위로 올리면 월별로 달린 기록을 확인할 수 있습니다.  | 러닝 그래프 터치시 해당 러닝 기록을 볼 수 있습니다. |
 
- |  달력  |  개인정보 처리방침 |
- | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: |
- | <img src="./frontend/Dallim/src/assets/readme/main/watchGuide.png"  width="200" height="300"/> |  <img src="./frontend/Dallim/src/assets/readme/main/privacypolicy.png"  width="200" height="300"/>  |
- | 서비스 출석일과 관련된 달력입니다. 출석의 경우 해당 날짜에 달리기 종료시, 출석으로 인정됩니다. | 서비스 개인정보 처리에 대한 링크로 이어지는 창이 뜹니다. 확인을 선택하면 서비스 개인정보 처리방침 페이지로 이동하게 됩니다.  |
- 
+|  차트 메인(슬라이드)  |  차트 기록 |  페이스 차트 |  
+| :-----------------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: |
+| <img src="./frontend/Dallim/src/assets/readme/chart/chartMainSlide.png"  width="200" height="300"/> |  <img src="./frontend/Dallim/src/assets/readme/chart/runningRecord.png"  width="200" height="300"/> <img src="./frontend/Dallim/src/assets/readme/chart/runningRecordTwo.png"  width="200" height="300"/> <img src="./frontend/Dallim/src/assets/readme/chart/runningRecordThree.png"  width="200" height="300"/> | <img src="./frontend/Dallim/src/assets/readme/chart/paceChart.png"  width="200" height="300"/>   |
+| 달력에 표시된 러닝 기록 선택 시, 해당 일자에 뛴 기록이 나타나게 됩니다.  | 카드 선택 시, 기록의 상세보기로 이동하며 해당 뷰에서 스크롤을 통해 속도, 심박수 그래프, 같이 달린 러닝메이트도 함께 나타납니다.  | 차트 기록에서 오른쪽 슬라이드를 통해 페이스 차트를 확인할 수 있습니다. |
+
+|  페이스 차트 터치  |  페이스 차트 비교 |  러닝 메이트와 기록비교 |  심박수 차트  | 
+| :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
+| <img src="./frontend/Dallim/src/assets/readme/chart/paceChartTouch.png"  width="200" height="300"/> |  <img src="./frontend/Dallim/src/assets/readme/chart/runningTogetherTwo.png"  width="200" height="300"/>  | <img src="./frontend/Dallim/src/assets/readme/chart/compareRunningRecord.png"  width="200" height="300"/>   | <img src="./frontend/Dallim/src/assets/readme/chart/heartBeatTwo.png"  width="200" height="300"/> |  
+| 그래프를 선택하면 선택한 지점의 평균 페이스가 나타납니다. | 같이 달리기 비교 토글 터치 시 함께 달린 러닝메이트와 비교를 할 수 있습니다.  | 같이 달린 러닝메이트와 달린 기록 리스트를 확인할 수 있습니다. | 페이스 차트에서 한칸 더 옆으로 이동 시 심박수 차트가 나타납니다. 해당 그래프 선택 시, 해당 지점에서의 심박수가 있는 영역에 따라 색상이 선택됩니다. | 
+
+</details>
+
+<details>
+<summary>:first_quarter_moon:<strong>소셜 페이지</strong></summary>
+<br>
+
+|  소셜 메인  |  러닝메이트 상세보기 |  러닝메이트와 친구추가 | 러닝메이트와 친구추가 |
+| :-------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------: |
+| <img src="./frontend/Dallim/src/assets/readme/social/rankingMain.png"  width="200" height="300"/> |  <img src="./frontend/Dallim/src/assets/readme/chart/chartMainBottomUp.png"  width="200" height="300"/>  | <img src="./frontend/Dallim/src/assets/readme/chart/moveRunningRecord.png"  width="200" height="300"/> | <img src="./frontend/Dallim/src/assets/readme/chart/moveRunningRecord.png"  width="200" height="300"/> |
+| 소셜버튼 터치시 전체 랭킹을 볼 수 있는 화면입니다. | 랭킹에 나타난 프로필 터치 시 해당 유저의 실제 프로필과 기록들을 볼 수 있습니다.  | 러닝 그래프 터치시 해당 러닝 기록을 볼 수 있습니다. |
+
+|  차트 메인(슬라이드)  |  차트 기록 |  페이스 차트 |  
+| :-----------------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: |
+| <img src="./frontend/Dallim/src/assets/readme/chart/chartMainSlide.png"  width="200" height="300"/> |  <img src="./frontend/Dallim/src/assets/readme/chart/runningRecord.png"  width="200" height="300"/> <img src="./frontend/Dallim/src/assets/readme/chart/runningRecordTwo.png"  width="200" height="300"/> <img src="./frontend/Dallim/src/assets/readme/chart/runningRecordThree.png"  width="200" height="300"/> | <img src="./frontend/Dallim/src/assets/readme/chart/paceChart.png"  width="200" height="300"/>   |
+| 달력에 표시된 러닝 기록 선택 시, 해당 일자에 뛴 기록이 나타나게 됩니다.  | 카드 선택 시, 기록의 상세보기로 이동하며 해당 뷰에서 스크롤을 통해 속도, 심박수 그래프, 같이 달린 러닝메이트도 함께 나타납니다.  | 차트 기록에서 오른쪽 슬라이드를 통해 페이스 차트를 확인할 수 있습니다. |
+
+|  페이스 차트 터치  |  페이스 차트 비교 |  러닝 메이트와 기록비교 |  심박수 차트  | 
+| :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
+| <img src="./frontend/Dallim/src/assets/readme/chart/paceChartTouch.png"  width="200" height="300"/> |  <img src="./frontend/Dallim/src/assets/readme/chart/runningTogetherTwo.png"  width="200" height="300"/>  | <img src="./frontend/Dallim/src/assets/readme/chart/compareRunningRecord.png"  width="200" height="300"/>   | <img src="./frontend/Dallim/src/assets/readme/chart/heartBeatTwo.png"  width="200" height="300"/> |  
+| 그래프를 선택하면 선택한 지점의 평균 페이스가 나타납니다. | 같이 달리기 비교 토글 터치 시 함께 달린 러닝메이트와 비교를 할 수 있습니다.  | 같이 달린 러닝메이트와 달린 기록 리스트를 확인할 수 있습니다. | 페이스 차트에서 한칸 더 옆으로 이동 시 심박수 차트가 나타납니다. 해당 그래프 선택 시, 해당 지점에서의 심박수가 있는 영역에 따라 색상이 선택됩니다. | 
+
 </details>
 
 
