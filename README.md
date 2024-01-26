@@ -1,4 +1,4 @@
-![메인페이지](ttps://github.com/Eungae-D/Dallim/assets/135101171/dfae0c7a-c9e7-4272-91e2-ee90c3439e81)
+![메인페이지](https://github.com/Eungae-D/Dallim/assets/135101171/bd848807-e07b-49ae-99c4-970bda51e714)
 
 # 소개
 
